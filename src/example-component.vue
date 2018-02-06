@@ -1,15 +1,8 @@
-<template>
-  <div>
-    Example Component works!
-  </div>
+<template src="./example-component.html">
 </template>
 
-<script lang="ts">
-export default {
-  data: () => {}
-}
+<script lang="ts" src="./example-component.ts">
 </script>
 
 <style>
-
 </style>
